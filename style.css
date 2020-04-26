@@ -1,6 +1,23 @@
-p { color: darkred }
-h1 { color: blue }
-h3 { color: darkred }
-h4 { color: darkred }
-.lista { color: violet }
-#lopetus { color: red }
+p {
+  color: darkred;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: darkred;
+}
+
+h4 {
+  color: darkred;
+}
+
+.lista {
+  color: violet;
+}
+
+#lopetus {
+  color: red;
+}
