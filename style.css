@@ -1,23 +1,20 @@
-p {
-  color: darkred;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #555;
+  line-height: 1.5;
+  padding: 4em 1em;
 }
 
 h1 {
-  color: blue;
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
 
-h3 {
-  color: darkred;
-}
-
-h4 {
-  color: darkred;
-}
-
-.lista {
-  color: violet;
-}
-
-#lopetus {
-  color: red;
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
